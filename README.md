@@ -1,4 +1,5 @@
 # Revit Electrical Design  Project
+Download the raw file on the right after opening the project.
 
 Sample House electrical documentation completed in Revit.
 
